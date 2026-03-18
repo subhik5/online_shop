@@ -1,6 +1,6 @@
-# Online Shop 🛍️ for Hackathon Phase 1
+# Online Shop 🛍️
 
-[![Stars](https://img.shields.io/github/stars/iemafzalhassan/online_shop)](https://github.com/iemafzalhassan/online_shop)
+!(https://github.com/subhik5/online-shop-app.git)
 ![Forks](https://img.shields.io/github/forks/iemafzalhassan/online_shop)
 ![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/easyshop?color=red)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
@@ -110,6 +110,6 @@ All this while ensuring:
 
 ---
 
-Good luck for the hackathon
+Good luck 
 
 Happy Learning :)

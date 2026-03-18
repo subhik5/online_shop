@@ -1,7 +1,7 @@
 apiVersion: autoscaling/v2
 kind: HorizontalPodAutoscaler
 metadata:
-  name: online-shop
+  name: online-shop-hpa
   namespace: online-shop-prod
 spec:
   scaleTargetRef:
@@ -16,10 +16,4 @@ spec:
       name: cpu
       target:
         type: Utilization
-        averageUtilization: 70
-  - type: Resource
-    resource:
-      name: memory
-      target:
-        type: Utilization
-        averageUtilization: 80
+        averageUtilization: 50

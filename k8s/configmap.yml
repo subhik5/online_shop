@@ -4,7 +4,5 @@ metadata:
   name: online-shop-config
   namespace: online-shop-prod
 data:
-  NODE_ENV: "production"
-  HOST: "0.0.0.0"
-  PORT: "5173"
-  VITE_HOST: "0.0.0.0"
+  APP_NAME: "OnlineShop"
+  ENV: "production"
